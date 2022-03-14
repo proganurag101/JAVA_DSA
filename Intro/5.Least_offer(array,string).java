@@ -33,7 +33,7 @@ public class Main{
             }
         }
         
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){  //a way to print all the values which satisfy a given condition
             if(dis[i]==min){
               System.out.println(inp1[i][0]);
             }
